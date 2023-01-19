@@ -49,8 +49,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/pedroserretti/pedroserretti/blob/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://raw.githubusercontent.com/pedroserretti/pedroserretti/blob/output/snake.svg)
 
 ###
 
-![snake gif](https://github.com/pedroserretti/pedroserretti/blob/output/github-contribution-grid-snake.svg)
